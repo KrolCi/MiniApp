@@ -1,4 +1,5 @@
 <?php 
+//please try to comment code in english
 include("mysql.php");
 if (isset($_REQUEST['pos']))
   $inicio=$_REQUEST['pos'];
